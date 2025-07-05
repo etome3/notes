@@ -1,0 +1,19 @@
+{
+  "activeProfile": {
+    "name": "home1",
+    "modifiedAt": "2025-06-27T12:32:04.868Z"
+  },
+  "profileUpdate": true,
+  "profileUpdateDelay": 800,
+  "uiUpdate": true,
+  "uiUpdateInterval": 1000,
+  "devices": {
+    "71c00a66b58ec77891f7f04bfcccbfdf8a0fdfc07fbd75b667414c872e2e710b": "C:\\Users\\edenm\\AppData\\Local\\ObsidianPlugins\\Data\\Profiles"
+  },
+  "statusbarInteraction": {
+    "click": "auto",
+    "ctrl_click": "none",
+    "shift_click": "none",
+    "alt_click": "none"
+  }
+}

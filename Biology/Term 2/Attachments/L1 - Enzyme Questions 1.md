@@ -1,0 +1,3 @@
+The rate of reaction, with a fixed amount of enzyme and ample cofactors present, increases as the concentration of the substrate increases. At low concentrations of the substrate, the rate of reaction increases sharply as the concentration of the substrate increases. At high concentrations of the substrate, the rate of reaction increases less and less as the concentration of the substrate increases. This relationship forms a curve that approaches a plateau as the concentration of the substrate increases.
+
+![[L1 - Enzyme Questions 1.png]]

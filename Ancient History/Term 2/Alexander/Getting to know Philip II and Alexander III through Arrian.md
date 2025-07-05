@@ -1,0 +1,89 @@
+**Getting to know Philip II and Alexander III through Arrian of Nicomedia**
+
+**Activity:** Based on Arrian’s relaying of **Alexander’s speech at the Mutiny of Opis** (delivered in 324 BCE; he died in 323 BCE) Your task:
+
+1. Listen to [https://www.youtube.com/watch?v=_XAvQPnpZro](https://www.youtube.com/watch?v=_XAvQPnpZro)
+2. (Monday) Find (ancient) **Opis** on a map and copy that map into your document
+
+![Getting to know Philip II and Alexander III through Arrian](<Ancient History/Term 2/Alexander/Attachments/Getting to know Philip II and Alexander III through Arrian.png>)Within Iraq
+
+1. (Monday) Use Arrian to glean and summarise **the achievements of Philip II** (see blue text) – make at least 8 points
+2. Philip II transformed the Macedonians from poor mountain dwellers into a prosperous people.
+3. He provided them with better clothing and moved them from the mountains to the plains.
+4. Philip II reorganised the army to successfully fight against neighbouring barbarian tribes.
+5. He established them as colonists in cities with laws and customs, making them rulers instead of subjects.
+6. Philip II annexed much of Thrace to Macedonia, increasing wealth through commerce and mining.
+7. He subjugated the Thessalians, who were previously a source of fear, and conquered the Phocians.
+8. Philip II humbled the Athenians and Thebans, making them seek Macedonian protection.
+9. He secured the position of commander-in-chief of Greece, planning an expedition against Persia.
+10. (Monday) Find out about **Philip’s military reforms** and list them before going back to the speech: our textbook, pages 208-209. If the text is not available, go here: [https://www.historynet.com/genius-philip-ii/](https://www.historynet.com/genius-philip-ii/) - It is very good, although it is a bit of a read.
+11. (Monday) **Summarise Alexander’s apparent description of his own achievements** (after the blue text), keeping in mind that Arrian wrote approximately 460 years after Alexander’s death.
+
+**Bring your completed responses to class on Tuesday.**
+
+Alexander, according to Arrian's account, portrays his achievements as surpassing those of his father, Philip, by claiming to have:
+
+- Expanded Macedonian control from a small, indebted kingdom to a vast empire encompassing Ionia, Aeolis, Phrygia, Lydia, Egypt, Cyrene, Coele-Syria, Palestine, Mesopotamia, Babylon, Bactra, Susa, and lands of the Lydians, Persians, and Indians.
+- Granted his men wealth and positions of power (viceroys, generals, captains) from these conquered territories.
+- Shared the hardships of war, bearing wounds on his body as evidence of his participation in battles.
+- Honoured his soldiers through celebrations, debt relief, monuments, and ensuring their families were respected.
+- Conquered diverse peoples and regions, including Persians, Medes, Bactrians, Sacians, Uxians, Arachotians, Drangians, Parthians, Chorasmians, Hyrcanians, and territories up to the Caspian Sea, Caucasus, and across rivers like the Oxus, Tanais, and Indus.
+- Explored previously uncharted territories, such as the Great Sea through the Indus and the desert of Gadrosia.
+
+“The speech which I am about to deliver will not be for the purpose of checking your start homeward, for, so far as I am concerned, you may depart wherever you wish; but because I wish you to know what kind of men you were originally and how you have been transformed since you came into our service.
+
+In the first place, as is reasonable, I shall begin my speech from my father Philip. For he found you vagabonds and destitute of means, most of you clad in hides, feeding a few sheep up the mountain sides, for the protection of which you had to fight with small success against Illyrians, Triballians, and the border Thracians. Instead of the hides he gave you cloaks to wear, and from the mountains he led you down into the plains, and made you capable of fighting the neighbouring barbarians (here he refers to Philip’s reorganisation of the army/his crucial military reforms), so that you were no longer compelled to preserve yourselves by trusting rather to the inaccessible strongholds than to your own valour.
+
+He made you colonists of cities, which he adorned with useful laws and customs; and from being slaves and subjects, he made you rulers over those very barbarians by whom you yourselves, as well as your property, were previously liable to be plundered and ravaged. He also added the greater part of Thrace to Macedonia, and by seizing the most conveniently situated places on the sea-coast, he spread abundance over the land from commerce, and made the working of the mines a secure employment. He made you rulers over the Thessalians, of whom you had formerly been in mortal fear, and by humbling the nation of the Phocians, he rendered the avenue into Greece broad and easy for you, instead of being narrow and difficult.
+
+The Athenians and Thebans, who were always lying in wait to attack Macedonia, he humbled to such a degree,—I also then rendering him my personal aid in the campaign,—that instead of paying tribute to the former and being vassals to the latter, those States in their turn procure security to themselves by our assistance.
+
+He penetrated into the Peloponnese, and after regulating its affairs, was publicly declared commander-in-chief of all the rest of Greece in the expedition against the Persian, adding this glory not more to himself than to the commonwealth of the Macedonians.
+
+**These were the advantages which accrued to you from my father Philip; great indeed if looked at by themselves, but small if compared with those you have obtained from me.** For though I inherited from my father only a few gold and silver goblets, and there were not even sixty talents in the treasury, and though I found myself charged with a debt of 500 talents owing by Philip, and I was obliged myself to borrow 800 talents in addition to these, I started from the country which could not decently support you, and forthwith laid open to you the passage of the Hellespont, though at that time the Persians held the sovereignty of the sea.
+
+Having overpowered the viceroys of Darius 385with my cavalry, I added to your empire the whole of Ionia, the whole of Aeolis, both Phrygias and Lydia, and I took Miletus by siege. All the other places I gained by voluntary surrender, and I granted you the privilege of appropriating the wealth found in them. T
+
+he riches of Egypt and Cyrene, which I acquired without fighting a battle, have come to you. Coele-Syria, Palestine, and Mesopotamia are your property. Babylon, Bactra, and Susa are yours. The wealth of the Lydians, the treasures of the Persians, and the riches of the Indians are yours; and so is the External Sea. You are viceroys, you are generals, you are captains. What then have I reserved to myself after all these labours, except this purple robe and this diadem?[872](https://www.gutenberg.org/files/46976/46976-h/46976-h.htm?ref=thestopgap.net" \l "Footnote_872) I have appropriated nothing myself, nor can any one point out my treasures, except these possessions of yours or the things which I am guarding on your behalf. Individually, however, I have no motive to guard them, since I feed on the same fare as you do, and I take only the same amount of sleep. Nay, I do not think that my fare is as good as that of those among you who live luxuriously; and I know that I often sit up at night to watch for you, that you may be able to sleep.
+
+CHAPTER X.
+
+Alexander’s Speech **(_continued_).**
+
+“But some one may say, that while you endured toil and fatigue, I have acquired these things as your leader without myself sharing the toil and fatigue. But who is there of you who knows that he has endured greater toil for me than I have for him? Come now! whoever of you has wounds, let him strip and show them, and I will show mine in turn; for there is no part of my body, in front at any rate, remaining free from wounds; nor is there any kind of weapon used either for close combat or for hurling at the enemy, the traces of which I do not bear on my person. For I have been wounded with the sword in close fight, I have been shot with arrows, and I have been struck with missiles projected from engines of war; and though oftentimes I have been hit with stones and bolts of wood for the sake of your lives, your glory, and your wealth, I am still leading you as conquerors over all the land and sea, all rivers, mountains, and plains.
+
+I have celebrated your weddings with my own, and the children of many of you will be akin to my children. Moreover, I have liquidated the debts of all those who had incurred them, without inquiring too closely for what purpose they were contracted, though you receive such high pay, and carry off so much booty whenever there is booty to be got after a siege. Most of you have golden crowns, the eternal memorials of your valour and of the honour you receive from me. Whoever has been killed, has met with a glorious end and has been honoured with a splendid burial. Brazen statues of most of the slain have been erected at home, and their parents are held in honour, being released from all public service and from taxation. But no one of you has ever been killed in flight under my leadership. And now I was intending to send back those of you who are unfit for service, objects of envy to those at home; but since you all wish to depart, depart all of you! Go back and report at home that your king Alexander, the conqueror of the Persians, Medes, Bactrians, and Sacians; the man who has subjugated the Uxians, Arachotians, and Drangians; who has also acquired the rule of the Parthians, Chorasmians, and Hyrcanians, as far as the Caspian Sea; who has marched over the Caucasus, through the Caspian Gates; who has crossed the rivers Oxus and Tanais, and the Indus besides, which has never been crossed by any one else except Dionysus; who has also crossed the Hydaspes, Acesines, and Hydraotes, and who would have crossed the Hyphasis, if you had not shrunk back with alarm; who has penetrated into the Great Sea by both the mouths of the Indus; who has marched through the desert of Gadrosia, where no one ever before marched with an army; who on his route acquired possession of Carmania and the land of the Oritians, in addition to his other conquests, his fleet having in the meantime already sailed round the coast of the sea which extends from India to Persia—report that when you returned to Susa you deserted him and went away, handing him over to the protection of conquered foreigners. Perhaps this report of yours will be both glorious to you in the eyes of men and devout forsooth in the eyes of the gods. Depart!”
+
+![Getting to know Philip II and Alexander III through Arrian](<Ancient History/Term 2/Alexander/Attachments/Getting to know Philip II and Alexander III through Arrian.jpeg>)**John D Clare** is a former Head of History at Greenfield School, County Durham, and he eventually moved on to become Deputy Headteacher there. John studied Modern History at Oxford University and graduated in 1974. He also achieved a Post-Graduate Certificate for Specific Learning Difficulties. With over 100 history text books to his name, published in 19 countries and 17 different languages, John D Clare is one of the most respected history teachers in the world, and his teaching materials have been used here on School History by hundreds of thousands of teachers and students.
+
+|   |
+|---|
+|**John D Clare on Arrian as a source:**|
+|Arrian was a Greek who served the Roman Emperor Hadrian as a governor and (perhaps) as a general; after he retired, he specialised in writing military histories. <br><br>Arrian lived four centuries after Alexander, but he did have a number of contemporary sources on which he based his history - especially the accounts of Ptolemy (one of Alexander's generals who became ruler of Egypt) and Aritobulus (a military engineer on some of Alexander's campaign -- his nickname was 'the flatterer').<br><br>Arrian regarded Alexander as 'a hero totally unlike any other human being'.  The historian AB Bosworth therefore declared Arrian unreliable -- firstly, because his sources were unreliable (especially Ptolemy), and secondly because Arrian then interpreted them incorrectly.  Arrian's history concentrated on what happened, with occasional moral judgements on Alexander. <br><br>**1. Strengths of Arrian**  <br>*  used contemporary sources<br><br>*  consciously tried to select the best/most reliable sources<br><br>*  attempted to gain an objective view<br><br>*  had personal military experience/ experience as a military writier<br><br>*  was motivated, even obsessed (said it was his whole life's work)<br><br>*  had personal experience as a ruler/of government<br><br>*  steeped in the Greek heritage<br><br>*  wrote in his 60s (experienced and reflective)<br><br>  <br>**2. Weaknesses of Arrian**  <br>*  arrogant and over-confident<br><br>*  writing four centuries after the events<br><br>*  Bosworth says he didn't really understand ancient Greek culture and society<br><br>*  only as reliable as his sources (esp Ptolemy has been shown to be very unreliable)<br><br>*  he used wrong criteria to judge sources (e.g. he believed kings don't lie)<br><br>*  might NOT have had military experience (no evidence of his 'campaign')<br><br>*  accused of hagiography/eulogy (idolised Alexander).|
+
+**Analysing and Evaluating Arrian**
+
+**Read the following passages from Arrian, and write answers to the questions which follow:**
+
+Wherever Ptolemy, the son of Lagus, and Aristobulus, son of Aristobulus have written the same things about Alexander, son of Philip, I have followed their accounts as true in every way; but where they give different accounts, I have chosen what seems to me the more reliable account as well the more worthy of recording in my history. Other writers have given different versions of Alexander’s life, and there is no other figure who has attracted such contradictory accounts. In my opinion Ptolemy and Aristobulus are more reliable; Aristobulus was on the expedition with king Alexander, as was Ptolemy - since he later became a king himself, lying would have been more shameful for him than for any other writer. Both wrote their accounts when Alexander was already dead, so there was no necessity or expectation of reward for them to write down anything except the truth.
+
+**1.Suggest TWO things this passage tells us about how Arrian wrote the Anabasis. [4 marks]**
+
+Arrian prioritized accounts from Ptolemy and Aristobulus when they agreed, viewing them as the most reliable sources.
+
+When Ptolemy and Aristobulus disagreed, Arrian made his own judgements and selected the account he considered more reliable and historically valuable.
+
+No other single individual, either Greek or barbarian, has achieved such incredible success on so many occasions and to such an overwhelming extent. For that reason I have myself started writing this history, as I think I’m up to the task of bringing Alexander’s deeds to a wider audience. Whatever my abilities as a writer may be, I do not need to write my name here, for it is not unknown to my contemporaries, nor is my country nor my family, nor the successes that I’ve had in public life in my own country. But I do state this, that these stories are and have been from my youth my country and my family and my successes. It is for that reason that I consider myself worthy of the finest writers in the Greek language, since my subject, Alexander, was the finest of warriors.
+
+**2.Explain what this passage shows about why Arrian wrote the Anabasis. [4]**
+
+Arrian believed Alexander achieved unparalleled success and wanted to document his deeds for a wider audience. He felt qualified for the task because his life had been dedicated to studying Alexander, making him comparable to the finest Greek writers.
+
+  
+WHOEVER therefore reproaches Alexander as a bad man, let him do so; but let him first not only bring before his mind all his actions deserving reproach, but also gather into one view all his deeds of every kind. Then, indeed, let him reflect who he is himself, and what kind of fortune he has experienced; and then consider who that man was whom he reproaches as bad, and to what a height of human success he attained, becoming without any dispute king of both continents, and reaching every place by his fame; while he himself who reproaches him is of smaller account, spending his labour on petty objects, which, however, he does not succeed in effecting, petty as they are. For my own part, I think there was at that time no race of men, no city, nor even a single individual to whom Alexander's name and fame had not penetrated. For this reason it seems to me that a hero totally unlike any other human being could not have been born without the agency of the deity...  
+In relating the history of Alexander's achievements, there are some things which I have been compelled to censure; but I am not ashamed to admire Alexander himself. Some actions I have branded as bad, both from a regard to my own veracity, and at the same time for the benefit of mankind. For this reason I myself undertook the task of writing this history not without the agency of god.
+
+**3.In your opinion, how reliable is Arrian’s account of Alexander?  
+You must refer both to this passage, and to your knowledge of Arrian as a writer. [5]**
+
+Arrian's account has limited reliability. While he used contemporary sources, he favoured Ptolemy and Aristobulus and the passage shows a clear bias, believing they would be more truthful due to their status. This passage also suggests that he idolised Alexander. His own strengths and weaknesses as a historian (e.g., bias, time gap) reduce its reliability further.

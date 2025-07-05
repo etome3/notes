@@ -1,0 +1,146 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "source": "auto",
+    "type": "auto",
+    "width": 65,
+    "height": 20,
+    "color": {
+      "1": "38;2;138;43;226",
+      "2": "38;2;147;0;211",
+      "3": "38;2;123;104;238",
+      "4": "38;2;75;0;130",
+      "5": "38;2;102;51;153",
+      "6": "38;2;148;0;211",
+      "7": "38;2;186;85;211",
+      "8": "38;2;138;43;226",
+      "9": "38;2;72;61;139"
+    }
+  },
+  "display": {
+    "separator": " ❯ ",
+    "color": {
+      "keys": "38;2;186;85;211",
+      "title": "1;38;2;138;43;226",
+      "separator": "38;2;147;0;211",
+      "output": "38;2;221;160;221"
+    },
+    "key": {
+      "width": 18,
+      "paddingLeft": 2
+    }
+  },
+  "modules": [
+    {
+      "type": "title",
+      "color": {
+        "user": "1;38;2;138;43;226",
+        "at": "38;2;147;0;211",
+        "host": "1;38;2;138;43;226"
+      }
+    },
+    {
+      "type": "separator",
+      "string": "─────────────────────────────────────────────────"
+    },
+    {
+      "type": "datetime",
+      "key": " Date",
+      "keyColor": "38;2;102;51;153",
+      "format": "{day-pretty}-{month-pretty}-{year} {hour-pretty}:{minute-pretty}:{second-pretty}"
+    },
+    {
+      "type": "os",
+      "key": " OS",
+      "keyColor": "38;2;138;43;226"
+    },
+    {
+      "type": "kernel",
+      "key": " Kernel",
+      "keyColor": "38;2;147;0;211"
+    },
+    {
+      "type": "uptime",
+      "key": " Uptime",
+      "keyColor": "38;2;123;104;238"
+    },
+    {
+      "type": "packages",
+      "key": " Packages",
+      "keyColor": "38;2;102;51;153"
+    },
+    {
+      "type": "shell",
+      "key": " Shell",
+      "keyColor": "38;2;138;43;226"
+    },
+    {
+      "type": "display",
+      "key": "󰍹 Display",
+      "keyColor": "38;2;147;0;211"
+    },
+    {
+      "type": "theme",
+      "key": "  Theme",
+      "keyColor": "38;2;147;0;211"
+    },
+    {
+      "type": "terminalfont",
+      "key": " Term. Font",
+      "keyColor": "38;2;123;104;238"
+    },
+    {
+      "type": "separator",
+      "string": "─────────────────────────────────────────────────"
+    },
+    {
+      "type": "host",
+      "key": "  Host",
+      "keyColor": "38;2;138;43;226"
+    },
+    {
+      "type": "cpu",
+      "key": " CPU",
+      "keyColor": "38;2;147;0;211"
+    },
+    {
+      "type": "gpu",
+      "key": " GPU",
+      "keyColor": "38;2;123;104;238"
+    },
+    {
+      "type": "memory",
+      "key": " Memory",
+      "keyColor": "38;2;102;51;153"
+    },
+    {
+      "type": "disk",
+      "key": " Disk (/)",
+      "keyColor": "38;2;138;43;226"
+    },
+    {
+      "type": "battery",
+      "key": "  Battery",
+      "keyColor": "38;2;147;0;211"
+    },
+    {
+      "type": "poweradapter",
+      "key": "  Power Adapter",
+      "keyColor": "38;2;123;104;238"
+    },
+    {
+      "type": "locale",
+      "key": " Locale",
+      "keyColor": "38;2;102;51;153"
+    },
+    {
+      "type": "separator",
+      "string": "─────────────────────────────────────────────────"
+    },
+    {
+      "type": "colors",
+      "paddingLeft": 2,
+      "symbol": "circle"
+    }
+  ]
+}
