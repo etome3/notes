@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b09c2928791011c3",
+        "id": "83a20e67123ccef5",
         "type": "tabs",
         "children": [
           {
-            "id": "f2c274992253ebae",
+            "id": "803c62df57364d5b",
             "type": "leaf",
             "state": {
               "type": "mk-space",
               "state": {
-                "path": "Math Methods/Term 3/Introduction to Calculus"
+                "path": "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions"
               },
               "icon": "lucide-file",
-              "title": "Introduction to Calculus"
+              "title": "Topic 3 - Rates of chemical reactions"
             }
           }
         ]
@@ -210,12 +210,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "518b8f8224d30fe4",
+  "active": "803c62df57364d5b",
   "lastOpenFiles": [
-    "Math Methods/Term 1/asf.md",
-    "Math Methods/Term 3/Introduction to Calculus/Introduction to Calculus.md",
+    "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions/Topic 3 - Rates of chemical reactions.md",
+    "Chemistry/Chemistry Vault/Topic 1 - Intermolecular forces and gases/Topic 1 - Intermolecular forces and gases.md",
+    "Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity/Topic 2 - Aqueous solutions and acidity.md",
+    "Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity/The pH Scale.md",
+    "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions/Energy Profile Diagrams.md",
+    "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions/Rates of Reactions.md",
+    "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions/Maxwell-Boltzmann Distribution.md",
+    "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions/SHE - Topic 3.md",
+    "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions/Topic 3 - Overview.md",
+    "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions/Factors Affecting Reaction Rate.md",
+    "Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity/Topic 2 - Overview.md",
+    "Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity/SHE - Topic 2.md",
+    "Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity/Science Inquiry - Topic 2.md",
+    "Chemistry/Chemistry Vault/Topic 1 - Intermolecular forces and gases/Topic 1 - Overview.md",
+    "Chemistry/Term 3/Term 3.md",
     "Ancient History/Alexander the Great Vault/Alexander the Great Vault.md",
     "Math Methods/Term 3/Logarithms/Logarithms.md",
+    "Math Methods/Term 3/Introduction to Calculus/Introduction to Calculus.md",
+    "Math Methods/Term 1/asf.md",
     "Math Methods/space/context.mdb",
     "Math Methods/space/def.json",
     "Math Methods/space",
@@ -227,11 +242,6 @@
     "Ancient History/Alexander the Great Vault/07 - Sources And Historiography/07 - Sources And Historiography.md",
     "Ancient History/Alexander the Great Vault/01 - Early Life And Ascension/Early Life.md",
     "Ancient History/Alexander the Great Vault/01 - Early Life And Ascension/Education.md",
-    "Ancient History/Alexander the Great Vault/01 - Early Life And Ascension/Ascension to Power.md",
-    "Ancient History/Alexander the Great Vault/02 - Military Campaigns/Battle of Gaugamela.md",
-    "Ancient History/Alexander the Great Vault/01 - Early Life And Ascension/Consolidation of Power.md",
-    "Math Methods/Term 3/Exponential Functions/Exponential Functions.md",
-    "Literature/Term 3/Tasks/TOMES Eden U2T2 Task 2.1.md",
     "Math Methods/Term 3/Logarithms",
     "Math Methods/Term 3/Introduction to Calculus",
     "Math Methods/Term 3/Exponential Functions",
@@ -248,16 +258,6 @@
     "Inter-4.1/svg/emoji_u1f510.svg",
     "Inter-4.1/svg/emoji_u1f512.svg",
     "Inter-4.1/svg",
-    "Chemistry/Chemistry Vault/Chemistry FIA3 Research Investigation/Resources for Claim/Resources for Claim.md",
-    "Chemistry/Chemistry Vault/Chemistry FIA3 Research Investigation/Research Question.md",
-    "Chemistry/Chemistry Vault/Chemistry FIA3 Research Investigation/Rationale Draft.md",
-    "Chemistry/Chemistry Vault/Chemistry FIA3 Research Investigation/Chemistry FIA3 Research Investigation.md",
-    "Chemistry/Chemistry Vault/Chemistry FIA3 Research Investigation/2025 FIA3 Research Investigation.md",
-    "Ancient History/Alexander the Great Vault/06 - Timeline/06 - Timeline.md",
-    "Ancient History/Alexander the Great Vault/03 - Empire & Administration/03 - Empire & Administration.md",
-    "Ancient History/Alexander the Great Vault/05 - Key Figures/05 - Key Figures.md",
-    "Ancient History/Alexander the Great Vault/04 - Death & Legacy/04 - Death & Legacy.md",
-    "Ancient History/Alexander the Great Vault/02 - Military Campaigns/02 - Military Campaigns.md",
     "Chemistry/Chemistry FIA3 Research Investigation/Untitled.canvas",
     "Chemistry/Chemistry FIA3 Research Investigation/Resources for Claim.canvas",
     "Untitled.canvas"

@@ -22,14 +22,14 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": true,
-  "currentWaypoint": 4,
+  "currentWaypoint": 2,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
   "spacesStickers": true,
   "spaceRowHeight": 29,
   "mobileSpaceRowHeight": 40,
-  "bannerHeight": 200,
+  "bannerHeight": 100,
   "spacesDisablePatch": false,
   "folderNoteInsideFolder": true,
   "folderNoteName": "",
@@ -51,9 +51,7 @@
     "Chemistry/Chemistry/Chemistry FIA3 Research Investigation/Chemistry/Chemistry FIA3 Research Investigation/Resources for Claim",
     "Ancient History",
     "Literature/Literature/Term 3",
-    "Chemistry/Chemistry/Term 3",
     "Chemistry/Chemistry/Chemistry FIA3 Research Investigation",
-    "Chemistry/Chemistry/Term 2",
     "Biology/Biology/Term 3",
     "Biology/Biology/Term 3/Biology/Term 3/Nervous System",
     "Biology",
@@ -67,7 +65,11 @@
     "Math Methods/Math Methods/Term 3",
     "Math Methods/Math Methods/Term 3/Math Methods/Term 3/Logarithms",
     "Math Methods/Math Methods/Term 3/Math Methods/Term 3/Introduction to Calculus",
-    "Math Methods/Math Methods/Term 3/Math Methods/Term 3/Exponential Functions"
+    "Math Methods/Math Methods/Term 3/Math Methods/Term 3/Exponential Functions",
+    "Chemistry/Chemistry/Chemistry Vault/Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity",
+    "Chemistry/Chemistry/Chemistry Vault/Topic 1 - Intermolecular forces and gases",
+    "Chemistry/Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity",
+    "Chemistry/Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -75,7 +77,9 @@
   "spaceSubFolder": "space",
   "hiddenFiles": [
     "Ancient History",
-    "Ancient History/Alexander the Great Vault/Alexander the Great - Overview.md"
+    "Ancient History/Alexander the Great Vault/Alexander the Great - Overview.md",
+    "Chemistry/Chemistry Vault/Topic 1 - Intermolecular forces and gases/Topic 1 - Overview.md",
+    "Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity/Topic 2 - Overview.md"
   ],
   "hiddenExtensions": [
     ".mdb",
