@@ -23,7 +23,7 @@ banner_y: "30"
 
 ## Introduction
 
-Alexander the Great (356–323 BCE) was a king of the ancient Greek kingdom of Macedon and a member of the Argead dynasty. Born in Pella, the ancient capital of Macedon, Alexander succeeded his father, **Philip II**, to the throne in 336 BCE. He spent most of his ruling years on an unprecedented military campaign through Asia and northeast Africa, and by the age of thirty, he had created one of the largest empires of the ancient world, stretching from Greece to northwestern India. This is a test.
+Alexander the Great (356–323 BCE) was a king of the ancient Greek kingdom of Macedon and a member of the Argead dynasty. Born in Pella, the ancient capital of Macedon, Alexander succeeded his father, **Philip II**, to the throne in 336 BCE. He spent most of his ruling years on an unprecedented military campaign through Asia and northeast Africa, and by the age of thirty, he had created one of the largest empires of the ancient world, stretching from Greece to northwestern India.
 
 His empire, though short-lived as a unified entity, profoundly influenced the course of history, leading to the widespread dissemination of Hellenistic culture across a vast geographical area. This period, known as the **Hellenistic Age**, saw the fusion of Greek and Eastern cultures, leaving an indelible mark on art, philosophy, science, and governance.
 #Alexander
