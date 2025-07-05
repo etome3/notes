@@ -11,24 +11,12 @@
             "id": "f2c274992253ebae",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mk-space",
               "state": {
-                "file": "Ancient History/Alexander the Great Vault/Alexander the Great Vault.md",
-                "mode": "source",
-                "source": false
+                "path": "Math Methods/Term 3/Introduction to Calculus"
               },
               "icon": "lucide-file",
-              "title": "Alexander the Great Vault"
-            }
-          },
-          {
-            "id": "5d9c225df5e0976f",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction to Calculus"
             }
           }
         ]
@@ -85,7 +73,7 @@
             }
           },
           {
-            "id": "dd5d59156286cd47",
+            "id": "7a8ebfe840c6a1a9",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -222,10 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f2c274992253ebae",
+  "active": "518b8f8224d30fe4",
   "lastOpenFiles": [
-    "Ancient History/Alexander the Great Vault/Alexander the Great Vault.md",
+    "Math Methods/Term 1/asf.md",
     "Math Methods/Term 3/Introduction to Calculus/Introduction to Calculus.md",
+    "Ancient History/Alexander the Great Vault/Alexander the Great Vault.md",
     "Math Methods/Term 3/Logarithms/Logarithms.md",
     "Math Methods/space/context.mdb",
     "Math Methods/space/def.json",
@@ -269,7 +258,6 @@
     "Ancient History/Alexander the Great Vault/05 - Key Figures/05 - Key Figures.md",
     "Ancient History/Alexander the Great Vault/04 - Death & Legacy/04 - Death & Legacy.md",
     "Ancient History/Alexander the Great Vault/02 - Military Campaigns/02 - Military Campaigns.md",
-    "Ancient History/Alexander the Great Vault/01 - Early Life And Ascension/01 - Early Life And Ascension.md",
     "Chemistry/Chemistry FIA3 Research Investigation/Untitled.canvas",
     "Chemistry/Chemistry FIA3 Research Investigation/Resources for Claim.canvas",
     "Untitled.canvas"
