@@ -1,6 +1,7 @@
 # MakeMD files
 .makemd/fileCache.mdc
 .makemd/superstate.mdc
+.obsidian/plugins/make-md/Spaces.mdb
 
 # Obsidian workspace
 .obsidian/workspace.json
