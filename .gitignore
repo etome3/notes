@@ -1,0 +1,6 @@
+# MakeMD files
+.makemd/fileCache.mdc
+.makemd/superstate.mdc
+
+# Obsidian workspace
+.obsidian/workspace.json
