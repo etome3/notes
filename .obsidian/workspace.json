@@ -11,12 +11,14 @@
             "id": "803c62df57364d5b",
             "type": "leaf",
             "state": {
-              "type": "mk-space",
+              "type": "markdown",
               "state": {
-                "path": "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions"
+                "file": "Ancient History/Alexander the Great Vault/01 - Early Life And Ascension/Early Life.md",
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Topic 3 - Rates of chemical reactions"
+              "title": "Early Life"
             }
           }
         ]
@@ -73,7 +75,7 @@
             }
           },
           {
-            "id": "4130976c83d9f4e1",
+            "id": "a6ca0d172ce57184",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -212,6 +214,7 @@
   },
   "active": "803c62df57364d5b",
   "lastOpenFiles": [
+    "Tags",
     "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions/Topic 3 - Rates of chemical reactions.md",
     "Chemistry/Chemistry Vault/Topic 1 - Intermolecular forces and gases/Topic 1 - Intermolecular forces and gases.md",
     "Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity/Topic 2 - Aqueous solutions and acidity.md",
@@ -241,7 +244,6 @@
     "Untitled.md",
     "Ancient History/Alexander the Great Vault/07 - Sources And Historiography/07 - Sources And Historiography.md",
     "Ancient History/Alexander the Great Vault/01 - Early Life And Ascension/Early Life.md",
-    "Ancient History/Alexander the Great Vault/01 - Early Life And Ascension/Education.md",
     "Math Methods/Term 3/Logarithms",
     "Math Methods/Term 3/Introduction to Calculus",
     "Math Methods/Term 3/Exponential Functions",
