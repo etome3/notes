@@ -73,7 +73,7 @@
             }
           },
           {
-            "id": "80bb1cfd04bd5cac",
+            "id": "8cd8ea87db823c09",
             "type": "leaf",
             "state": {
               "type": "mk-path-view",
@@ -210,8 +210,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "803c62df57364d5b",
+  "active": "3f0fa93725a223c1",
   "lastOpenFiles": [
+    "Tags",
     "Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions/Topic 3 - Rates of chemical reactions.md",
     "conflict-files-obsidian-git.md",
     "space/context.mdb",
