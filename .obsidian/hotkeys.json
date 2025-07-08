@@ -31,5 +31,13 @@
       ],
       "key": "C"
     }
+  ],
+  "theme-toggle:toggle-theme": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
   ]
 }
