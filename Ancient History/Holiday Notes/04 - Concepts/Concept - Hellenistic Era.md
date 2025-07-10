@@ -2,9 +2,9 @@
 tags: concept
 ---
 
-# The Hellenistic Era
+# Concept - Hellenistic Era
 
-The Hellenistic Era marks the period between the death of Alexander the Great in 323 BCE and the rise of the Roman Empire. It was a time of significant political, cultural, and social change, as Greek culture and influence spread throughout the former Persian Empire.
+The *Hellenistic Era* marks the period between the death of Alexander the Great in 323 BCE and the rise of the Roman Empire. It was a time of significant political, cultural, and social change, as Greek culture and influence spread throughout the former Persian Empire.
 
 ## Key Characteristics
 
