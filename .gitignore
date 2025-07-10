@@ -9,3 +9,6 @@
 
 # Obsidian workspace
 .obsidian/workspace.json
+
+# Infio JSON DB
+.infio_json_db/
