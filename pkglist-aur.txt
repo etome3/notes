@@ -1,0 +1,10 @@
+google-chrome-canary
+gopreload-git
+librewolf-bin
+obsidian-cli
+peazip
+pipes.c
+ttf-victor-mono
+visual-studio-code-bin
+wallust
+wlogout
