@@ -22,7 +22,7 @@
   "spacesEnabled": true,
   "syncFormulaToFrontmatter": true,
   "spacesPerformance": true,
-  "currentWaypoint": 2,
+  "currentWaypoint": 0,
   "enableFolderNote": true,
   "folderIndentationLines": true,
   "revealActiveFile": false,
@@ -56,7 +56,6 @@
     "Biology/Biology/Term 3/Biology/Term 3/Nervous System",
     "Biology",
     "Biology/Biology/Term 3/Biology/Term 3/1.2 Nervous System",
-    "Ancient History/Ancient History/Alexander the Great Vault",
     "Ancient History/Ancient History/Alexander the Great Vault/Ancient History/Alexander the Great Vault/01 - Early Life & Ascension",
     "Ancient History/Ancient History/Alexander the Great Vault/Ancient History/Alexander the Great Vault/06 - Timeline",
     "Ancient History/Ancient History/Term 2/Alexander",
@@ -67,9 +66,9 @@
     "Math Methods/Math Methods/Term 3/Math Methods/Term 3/Introduction to Calculus",
     "Math Methods/Math Methods/Term 3/Math Methods/Term 3/Exponential Functions",
     "Chemistry/Chemistry/Chemistry Vault/Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity",
-    "Chemistry/Chemistry/Chemistry Vault/Topic 1 - Intermolecular forces and gases",
-    "Chemistry/Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity",
-    "Chemistry/Chemistry/Chemistry Vault/Topic 3 - Rates of chemical reactions"
+    "Ancient History/Ancient History/Holiday Notes",
+    "Ancient History/Ancient History/Holiday Notes/Ancient History/Holiday Notes/00 - MOCs",
+    "Ancient History/Ancient History/Holiday Notes/Ancient History/Holiday Notes/_attachments"
   ],
   "expandFolderOnClick": true,
   "spacesFolder": "Tags",
@@ -82,7 +81,8 @@
     "Ancient History",
     "Ancient History/Alexander the Great Vault/Alexander the Great - Overview.md",
     "Chemistry/Chemistry Vault/Topic 1 - Intermolecular forces and gases/Topic 1 - Overview.md",
-    "Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity/Topic 2 - Overview.md"
+    "Chemistry/Chemistry Vault/Topic 2 - Aqueous solutions and acidity/Topic 2 - Overview.md",
+    "Ancient History/Holiday Notes/00 - MOCs"
   ],
   "hiddenExtensions": [
     ".mdb",
