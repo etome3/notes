@@ -1,3 +1,7 @@
+# Ignore all MakeMD and Obsidian folders
+.makemd/
+.obsidian/
+
 # MakeMD files
 .makemd/fileCache.mdc
 .makemd/superstate.mdc
