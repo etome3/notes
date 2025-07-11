@@ -1,7 +1,7 @@
 ---
 sticker: emoji//1f31f
 ---
-# **Rationale**
+# # **Rationale**
 Water's physical properties are highly anomalous for its small molecular size, exhibiting unusually high boiling points and surface tension crucial for biological and geochemical systems. This investigation evaluates the scientific claim that **“hydrogen bonding gives water unique properties”** by providing empirical evidence focused on surface tension, a direct and measurable consequence of these bonds.
 
 Surface tension is the cohesive energy at a liquid's surface, resulting directly from intermolecular forces (IMFs). While most liquids are governed by weak dispersion or dipole-dipole forces, water is dominated by hydrogen bonds—an exceptionally strong and directional IMF. This extensive hydrogen-bonding network is theorised to cause water's high surface tension (Brini et al., 2017). Quantifying the surface tension of various liquids therefore allows for the relative strength of their IMFs to be inferred, providing a method to investigate the specific influence of hydrogen bonding.
